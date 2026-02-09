@@ -1,17 +1,25 @@
 
-build/
-build-*/
-cmake-build-*/
-out/
-bin/
-lib/
+*.dll
+
+*.a
+*.lib
 
 *.exe
 
-build.ninja
-.ninja_*
+.vscode/*
+vscode/
 
-.vscode/
+*.tmp
+*.temp
 
 .build/*
 build/
+
+.googletest/*
+googletest/
+
+.docs/*
+docs/
+
+*.bat
+.vscode/

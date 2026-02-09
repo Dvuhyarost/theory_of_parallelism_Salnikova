@@ -1,3 +1,0 @@
-D:/24/py/useless/theory_of_parallelism_Salnikova/1/build/CMakeFiles/sine_sum.dir
-D:/24/py/useless/theory_of_parallelism_Salnikova/1/build/CMakeFiles/edit_cache.dir
-D:/24/py/useless/theory_of_parallelism_Salnikova/1/build/CMakeFiles/rebuild_cache.dir
