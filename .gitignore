@@ -12,3 +12,6 @@ build.ninja
 .ninja_*
 
 .vscode/
+
+.build/*
+build/
