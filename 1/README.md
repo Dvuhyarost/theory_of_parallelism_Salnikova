@@ -13,8 +13,6 @@ cmake --build build
 
 Вывод: 4.89582e-11
 
-
-```bash
 # Сборка с float 
 cmake -B build -DUSE_DOUBLE=OFF
 cmake --build build
